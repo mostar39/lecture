@@ -1,6 +1,4 @@
-학교 : 동국대학교
-학과 : 산업시스템공학과
-학번 : 2017112526
-이름 : 김민지
-연계전공 : 융합소프트웨어
-생일 : 3월 9일
+Dongguk University
+indusrial systems engineering
+Kim Minji
+Birth : March 9
